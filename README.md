@@ -2,6 +2,6 @@
 - 👀 I’m interested in web development, AI, and open-source projects.
 - 🌱 I’m currently learning JavaScript and React.
 - 💞️ I’m looking to collaborate on open-source web applications and AI projects.
-- 📫 How to reach me: send me an email at example@email.com.
+- 📫 How to reach me: send me an email at ahmed1357.1331@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and playing chess.
